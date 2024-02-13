@@ -2,11 +2,5 @@
     "name": "islot agent token",
     "symbol": "ISA",
     "description": "islot token",
-    "image": "https://islot.com/static/media/logo.7485d98634045b4d8027.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
+    "image": "https://islot.com/static/media/logo.7485d98634045b4d8027.png"
   }
